@@ -37,3 +37,7 @@ body{
 .navbar-dark{
     background-color: #512DA8;
 }
+
+.card-reserve{
+    background-color: rgb(211, 182, 17);
+}
